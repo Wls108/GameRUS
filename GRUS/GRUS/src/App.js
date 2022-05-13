@@ -8,7 +8,6 @@ import "./App.css";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Search from "./components/Search";
-import Login from "./components/Login";
 import { useState } from "react";
 
 function App() {
@@ -58,15 +57,6 @@ function App() {
             >
               Search
             </Nav.Link>
-            
-            <Nav.Link
-              href="#"
-              onClick={() => {
-                setCurrentPage("Login");
-              }}
-            >
-              Login
-            </Nav.Link>
           </Nav>
         </Container>
       </Navbar>
@@ -80,7 +70,8 @@ function App() {
               Cart
               <i class="fas fa-cart-arrow-down"></i>
             </Nav.Link>
-               
+
+            
       <Search/>
 
       {renderSelected()}

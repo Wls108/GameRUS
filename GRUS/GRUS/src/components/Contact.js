@@ -1,7 +1,7 @@
 import React from "react";
 import { Form, Button } from "react-bootstrap";
 
-function Contact(props) {
+function Login(props) {
   return (
     <div className="container mt-5 mb-5">
       <Form>
@@ -28,4 +28,4 @@ function Contact(props) {
   );
 }
 
-export default Contact;
+export default Login;
