@@ -51,7 +51,7 @@
   align-items: center;
 }
 .search-container {
-  with: 280px;
+  width: 280px;
   display: flex;
   flex-direction: column;
 }
