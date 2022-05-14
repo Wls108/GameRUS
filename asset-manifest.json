@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acid-burn117/gamesRUS/static/css/main.5341ca72.css",
+    "main.js": "/acid-burn117/gamesRUS/static/js/main.8f937bb6.js",
+    "static/js/787.c9dbb07f.chunk.js": "/acid-burn117/gamesRUS/static/js/787.c9dbb07f.chunk.js",
+    "index.html": "/acid-burn117/gamesRUS/index.html",
+    "main.5341ca72.css.map": "/acid-burn117/gamesRUS/static/css/main.5341ca72.css.map",
+    "main.8f937bb6.js.map": "/acid-burn117/gamesRUS/static/js/main.8f937bb6.js.map",
+    "787.c9dbb07f.chunk.js.map": "/acid-burn117/gamesRUS/static/js/787.c9dbb07f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5341ca72.css",
+    "static/js/main.8f937bb6.js"
+  ]
+}
