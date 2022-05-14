@@ -33,7 +33,7 @@ function App() {
                 setCurrentPage("About");
               }}
             >
-              About Me
+              Home
             </Nav.Link>
 
             
@@ -46,7 +46,7 @@ function App() {
                 setCurrentPage("Contact");
               }}
             >
-              Contact
+              Login
             </Nav.Link>
 
             <Nav.Link
@@ -59,8 +59,7 @@ function App() {
             </Nav.Link>
           </Nav>
         </Container>
-      </Navbar>
-      <Nav.Link
+        <Nav.Link
               href="#"
               className="CheckoutCart"
               onClick={() => {
@@ -70,6 +69,8 @@ function App() {
               Cart
               <i class="fas fa-cart-arrow-down"></i>
             </Nav.Link>
+      </Navbar>
+     
 
             
       <Search/>
@@ -79,9 +80,9 @@ function App() {
       <footer class="bg-dark text-center text-white">
         <div class="container p-4">
           <section class="mb-4 d-flex justify-content-around">
-            <p>Link to Github https://github.com/acid-burn117/gamesRUS</p>
+            <p>Link to Github https://github.com/Wls108/GameRUS</p>
             <p>Contact Number 123-456-7895</p>
-            <p>Email address 123@gmail.com</p>
+            <p>Email address  osoriodouglas19@gmail.com</p>
           </section>
         </div>
       </footer>
