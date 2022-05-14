@@ -33,7 +33,7 @@ function App() {
                 setCurrentPage("About");
               }}
             >
-              About Me
+              Home
             </Nav.Link>
 
             
