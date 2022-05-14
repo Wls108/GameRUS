@@ -2,8 +2,9 @@
 
 ## description
 e-commerce web application for video games. This application is built using React.js Express.js Node.js and a MongoDB. JWT uitilized for authentication, Stripe as the payment platform and deployed on Heroku.
+
 ## Table of Conents
-* [Installation](#installation)
+* [Technologies](#technologies)
 * [Usage](#usage)
 *
 * [License](#license)
@@ -12,13 +13,13 @@ e-commerce web application for video games. This application is built using Reac
 * [Tests](*tests)
 * [Questions](*questions)
 
-## Installation
+## Technologies
 
-To install necessary dependencies, run the following command:
+Ract
+Node
+mysql
+Game Library API
 
-```
-npm i
-```
 
 ## Usage
 
@@ -28,17 +29,19 @@ This project is created as a part of a full stack development bootcamp, any use 
   
 ## Contributing
 
-To contribute to this repo feel free to reach out to the authors.
+To contribute to this repo feel free to reach out to the authors. 
+Wyatt Smith, Douglas Osorio, Ronald Chen
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-npm test
+npm start
 ```
 
-## Questions
+## Github URL
 
-If you have any questions about the repo, open an issue or contact me directly at osoriodouglas19@gmail.com. You can find more of my work at [acid-burn117](https://github.com/acid-burn117/).
+https://github.com/Wls108/GameRUS
+
 
